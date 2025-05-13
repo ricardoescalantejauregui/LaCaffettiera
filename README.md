@@ -1,4 +1,4 @@
-# Proyecto Webempresa
+# Proyecto LaCaffettiera
 
 Este repositorio contiene un proyecto Django para la empresa "La Caffettiera". A continuación encontrarás los pasos para clonarlo, crear el entorno virtual, instalar dependencias y preparar la base de datos.
 
@@ -7,8 +7,8 @@ Este repositorio contiene un proyecto Django para la empresa "La Caffettiera". A
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/ricardoescalantejauregui/webempresa.git
-cd webempresa
+git clone https://github.com/ricardoescalantejauregui/LaCaffettiera.git
+cd LaCaffettiera
 ```
 
 ---
