@@ -1,6 +1,6 @@
 # Proyecto Webempresa
 
-Este repositorio contiene un proyecto Django para la empresa Webempresa. A continuación encontrarás los pasos para clonarlo, crear el entorno virtual, instalar dependencias y preparar la base de datos.
+Este repositorio contiene un proyecto Django para la empresa "La Caffettiera". A continuación encontrarás los pasos para clonarlo, crear el entorno virtual, instalar dependencias y preparar la base de datos.
 
 ---
 
