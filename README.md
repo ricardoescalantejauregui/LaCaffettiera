@@ -61,13 +61,13 @@ pip install -r requirements.txt
 1. **Generar nuevas migraciones** (si has modificado modelos):
 
    ```bash
-   python manage.py makemigrations
+   python3 manage.py makemigrations
    ```
 
 2. **Ejecutar todas las migraciones pendientes**:
 
    ```bash
-   python manage.py migrate
+   python3 manage.py migrate
    ```
 
    Al terminar, Django creará todas las tablas necesarias (incluyendo `social_link`, `blog`, `services`, etc.).
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 Si necesitas acceder al admin de Django:
 
 ```bash
-python manage.py createsuperuser
+python3 manage.py createsuperuser
 ```
 
 Sigue los pasos para definir usuario, correo y contraseña.
@@ -91,7 +91,7 @@ Sigue los pasos para definir usuario, correo y contraseña.
 Con el entorno activado y todo listo:
 
 ```bash
-python manage.py runserver
+python3 manage.py runserver
 ```
 
 Abre en tu navegador:
